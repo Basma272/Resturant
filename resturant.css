@@ -1,0 +1,89 @@
+.clr{clear:both}
+body{margin: 0%;}
+
+#home .navbar{position: fixed;
+    top: 0px; right: 0px;left: 0px;height: 70px;
+    background-color:rgba(255, 255, 255, 0.699);}
+ 
+#home .navbar .img { width: 20%; height: 100%; float: left;}
+#home .navbar .img img{width: 100%; height: 100%;}
+    #home{ background-image:url(drew-coffman-1872.jpg) ; background-size: 100% 100%;
+height: 100vh;}
+
+ #home .navbar .text{ font-size: 20px;height: 100%;width: 40%;float: right;}
+ #home .navbar .text h3{float: left; padding-right: 15px;}
+
+#home .te{height:50% ;
+text-align: center;
+padding-top: 100px;
+color: aliceblue;
+font-size: 30;
+font-family:inherit;
+font-weight: 900;}
+#home .te p{font-weight: 700;}
+#home .te .bt1 , .bt2  {font-weight: 700; font-size:16px;margin:
+    0px 0px 12px;
+    padding:
+    15px 28px; color: aliceblue;
+border-radius: 10%;}
+
+#home .te .bt2 {border-color: aliceblue;background:  local;}
+#home .te .bt1{ border:none;background-color: #8E7754;}
+
+
+
+#about .about-img{
+    width:50% ;
+ float:left}
+
+    #about .about-img img{
+        width: 80%; margin: 80px  60px;}
+       
+       
+       
+        #about .about-text{font-size: x-large;
+            width: 40%;
+            float: left; margin-top: 90px
+            ;margin-left: 30px;
+            font-weight: 100; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+   
+            #about .about-text p,h5{color: grey;}
+#tow .to1 {width: 40%
+     ;font-size: large;font-weight: 200; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float:left;line-height:
+    31.62px;margin-left: 200px
+
+}
+#tow .to2{ width:30%; float:left;margin-left: 100px}
+
+#tow .to2  img{width: 100%;height: 70%;}
+
+
+#three .three-text{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:100;padding-top: 100px;
+    font-size: larger;text-align:center;
+     width: 100%px; height: 30%;}
+
+     #three .three-text p{color: gray;}
+
+#three .three-img .img{font-size:20px;width:33%;
+    padding-bottom: 100px; float: left; text-align: center;}
+    #three .three-img .img p{color:grey;}
+
+    #three .three-img img{ width: 90%;}
+
+
+#four .four-text{ font-size: 20px;padding:20px ;height:100%; width:40%;float: left;font-stretch:
+    100%; font-weight: 400; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+    #four .four-text p{color: dimgray;}
+    #four .four-img{ width:50%; float: left;}
+#four .four-img img{width: 80%;height: 100%;}
+
+#five{background-color:#403D38; width: 100%; height: 70%;}
+
+#five .one-text,.two-text,.texttt, .four-text{font-stretch:condensed;width:  25%;float:left}
+#five ul,ol{padding: 15px;}
+#five ul{ font-size: 17px;color: aliceblue;}
+#five ol{color:gray}
+
+
